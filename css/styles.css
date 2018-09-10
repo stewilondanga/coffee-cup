@@ -165,12 +165,12 @@ h3 {
   background: linear-gradient(to bottom, #252C32 10%, #F4E8DA 10%, #DAB7A3 60%, #87624F 65%, #5B4644 90%);
 }
 
-/*.cappuccino {
+.cappuccino {
   top: 64%;
   background: linear-gradient(to bottom, #F4E8DA 50%, #DAB7A3 50%, #DAB7A3 55%, #87624F 60%);
 }
 
-.latte {
+/*.latte {
   top: 81%;
   background: linear-gradient(to bottom, #252C32 5%, #F4E8DA 5%, #F4E8DA 30%, #DAB7A3 30%, #DAB7A3 70%, #87624F 70%);
 }
