@@ -251,13 +251,13 @@ p {
   left: 63%;
 }
 
-/*.water {
+.water {
   background: #859FB5;
   position: absolute;
   left: 83%;
 }
 
-footer {
+/*footer {
   position: absolute;
   bottom: 0;
   right: 0;
