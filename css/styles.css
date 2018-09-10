@@ -226,14 +226,14 @@ p {
   letter-spacing: 2px;
 }
 
-/*.key {
+.key {
   position: relative;
   margin: auto;
   width: 500px;
   height: 200px;
 }
 
-.espresso {
+/*.espresso {
   background: #5B4644;
   position: absolute;
   left: 17%;
