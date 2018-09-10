@@ -4,6 +4,13 @@ html {
   min-height: 100%;
 }
 
+body {
+  background: #252C32;
+  display: grid;
+  font-family: "Lato", sans-serif;
+  text-transform: uppercase;
+}
+
 /*
 body {
   text-align: center;
@@ -26,13 +33,6 @@ body {
 
 .my_social a img {
   height: 1.5em;
-}
-
-body {
-  background: #252C32;
-  display: grid;
-  font-family: "Lato", sans-serif;
-  text-transform: uppercase;
 }
 
 h3 {
