@@ -95,7 +95,7 @@ h3 {
   left: 43%;
 }
 
-/*.coffee-cups {
+.coffee-cups {
   width: 40%;
   height: 100%;
   position: absolute;
@@ -103,7 +103,7 @@ h3 {
   top: 3%;
 }
 
-.handle {
+/*.handle {
   position: absolute;
   height: 20px;
   width: 15px;
