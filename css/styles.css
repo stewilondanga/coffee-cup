@@ -190,11 +190,11 @@ p {
   margin-top: -5px;
 }
 
-/*.first, .second, .third, .fourth, .fifth, .sixth {
+.first, .second, .third, .fourth, .fifth, .sixth {
   position: absolute;
 }
 
-.first {
+/*.first {
   top: 7%;
 }
 
