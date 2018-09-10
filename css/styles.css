@@ -32,7 +32,7 @@ h3 {
   font-weight: 100;
 }
 
-/*.container {
+.container {
   position: relative;
   margin: auto;
   overflow: hidden;
@@ -40,7 +40,7 @@ h3 {
   height: 700px;
 }
 
-.bar {
+/*.bar {
   position: absolute;
   height: 85%;
   width: 2px;
