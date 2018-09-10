@@ -218,7 +218,7 @@ p {
   top: 83%;
 }
 
-/*.small {
+.small {
   margin-left: 20px;
   margin-top: -1px;
   font-family: "Lato", sans-serif;
@@ -226,7 +226,7 @@ p {
   letter-spacing: 2px;
 }
 
-.key {
+/*.key {
   position: relative;
   margin: auto;
   width: 500px;
