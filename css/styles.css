@@ -257,7 +257,7 @@ p {
   left: 83%;
 }
 
-/*footer {
+footer {
   position: absolute;
   bottom: 0;
   right: 0;
@@ -267,7 +267,8 @@ p {
   padding: 10px;
   color: #EA7996;
 }
-footer p {
+
+/*footer p {
   text-transform: uppercase;
   color: #DAB7A3;
   font-family: "Lato", sans-serif;
