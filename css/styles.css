@@ -26,13 +26,13 @@ body {
   height: 1.5em;
 }
 
-/*h3 {
+h3 {
   font-size: 0.8em;
   letter-spacing: 1px;
   font-weight: 100;
 }
 
-.container {
+/*.container {
   position: relative;
   margin: auto;
   overflow: hidden;
