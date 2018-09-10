@@ -175,13 +175,13 @@ h3 {
   background: linear-gradient(to bottom, #252C32 5%, #F4E8DA 5%, #F4E8DA 30%, #DAB7A3 30%, #DAB7A3 70%, #87624F 70%);
 }
 
-/*h1 {
+h1 {
   color: #F4E8DA;
   font-size: 1em;
   letter-spacing: 3px;
 }
 
-p {
+/*p {
   color: #F4E8DA;
   font-family: "Lora", serif;
   text-transform: none;
