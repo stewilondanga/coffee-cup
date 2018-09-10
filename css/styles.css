@@ -145,12 +145,12 @@ h3 {
   left: 22%;
 }
 
-/*.doppio {
+.doppio {
   top: 5%;
   background: linear-gradient(to bottom, #252C32 40%, #5B4644 40%, #87624F 70%);
 }
 
-.americano {
+/*.americano {
   top: 18.5%;
   background: linear-gradient(to bottom, #252C32 13%, #859FB5 13%, #859FB5 50%, #87624F 50%);
 }
