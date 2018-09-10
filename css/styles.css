@@ -181,7 +181,7 @@ h1 {
   letter-spacing: 3px;
 }
 
-/*p {
+p {
   color: #F4E8DA;
   font-family: "Lora", serif;
   text-transform: none;
@@ -190,7 +190,7 @@ h1 {
   margin-top: -5px;
 }
 
-.first, .second, .third, .fourth, .fifth, .sixth {
+/*.first, .second, .third, .fourth, .fifth, .sixth {
   position: absolute;
 }
 
