@@ -40,7 +40,7 @@ h3 {
   height: 700px;
 }
 
-/*.bar {
+.bar {
   position: absolute;
   height: 85%;
   width: 2px;
@@ -49,7 +49,7 @@ h3 {
   background: #F4E8DA;
 }
 
-.circle {
+/*.circle {
   width: 10px;
   height: 10px;
   position: absolute;
