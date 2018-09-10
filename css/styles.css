@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Lora");
+html {
+  display: grid;
+  min-height: 100%;
+}
+
 /*
 body {
   text-align: center;
@@ -20,12 +26,6 @@ body {
 
 .my_social a img {
   height: 1.5em;
-}
-
-@import url("https://fonts.googleapis.com/css?family=Lato|Lora");
-html {
-  display: grid;
-  min-height: 100%;
 }
 
 body {
