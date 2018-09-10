@@ -115,7 +115,7 @@ h3 {
   border: 2px solid #F4E8DA;
 }
 
-/*.cup {
+.cup {
   position: absolute;
   width: 70px;
   height: 55px;
@@ -125,7 +125,7 @@ h3 {
   left: 20%;
 }
 
-.cup-small {
+/*.cup-small {
   position: absolute;
   width: 55px;
   height: 40px;
